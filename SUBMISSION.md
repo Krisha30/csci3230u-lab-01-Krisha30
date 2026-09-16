@@ -1,20 +1,20 @@
 # Lab 01 - Submission
 
 Fill in each section below. The automated check (and your TA) will look for
-real answers here - the `TODO`s must be gone before the check turns green.
+real answers here - the placeholders must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Krisha Kandoi
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+I learned how to use Git branches, pull requests, and GitHub Issues to make and manage changes without affecting the main branch. I also learned how a pull request can be connected to an issue and checked automatically before it is merged.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git push -u origin feat/favourite-language - I would use this command when I want to push a new branch to GitHub and connect my local branch to the remote branch.
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+Merged pull request: https://github.com/Krisha30/csci3230u-lab-01-Krisha30/pull/2
